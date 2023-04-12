@@ -24,3 +24,6 @@ Usage
 ---
 
 `npm start`
+
+
+THANK YOU!
